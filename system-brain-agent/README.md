@@ -1,7 +1,3 @@
-Certainly! Below is a **full README** that includes everything necessary, from environment checks to code installation and validation steps, with full details on how to set up, verify, and remove the **System-Brain-Agent v0**.
-
----
-
 # System-Brain-Agent v0 (Observer-Only)
 
 **System-Brain-Agent v0** is a read-only observer for **System-Brain v1**. It performs periodic contract checks, logs JSONL events, and captures evidence bundles on failures. The agent runs as a user-level `systemd` service every 3 minutes.
